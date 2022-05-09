@@ -20,7 +20,6 @@ const getToken = () => {
   grant_type: "client_credentials"
 }).then(res => {
   accessToken = res.data.access_token;
-  console.log(accessToken)
 }).catch(error => {
   console.log(error);
 })
