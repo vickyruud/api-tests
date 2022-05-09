@@ -1,0 +1,24 @@
+{
+  "name": "test-adpot-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fetchdata.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vickyruud/api-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vickyruud/api-tests/issues"
+  },
+  "homepage": "https://github.com/vickyruud/api-tests#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.0"
+  }
+}
