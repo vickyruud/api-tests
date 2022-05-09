@@ -19,6 +19,8 @@
   "homepage": "https://github.com/vickyruud/api-tests#readme",
   "dependencies": {
     "axios": "^0.27.2",
-    "dotenv": "^16.0.0"
+    "dotenv": "^16.0.0",
+    "node-fetch": "^3.2.4",
+    "request": "^2.88.2"
   }
 }
